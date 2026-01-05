@@ -48,4 +48,7 @@
   <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="60" height="60"/> </a>
 </p>
 
+![seems like the gif if missing...](https://c.tenor.com/mjWYgxi6RS8AAAAC/tenor.gif)
 ![sorry gif didn't load =(](https://media1.tenor.com/m/p0kz7NOqxTkAAAAd/kaito-typing.gif)
+![sorry this one is missing...](https://media1.tenor.com/m/wwTfhtzkfAYAAAAC/onegai-twins-please-twins.gif)
+
