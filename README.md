@@ -47,8 +47,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg" height="50" />
 </p>
 
-![seems like the gif if missing...](https://c.tenor.com/mjWYgxi6RS8AAAAC/tenor.gif)
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/skypixie/skypixie/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/skypixie/skypixie/output/github-contribution-grid-snake.svg" />
